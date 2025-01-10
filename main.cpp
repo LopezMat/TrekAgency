@@ -19,4 +19,6 @@ int main(int argc, char *argv[]) {
     tableView.show();
 
     return app.exec();
+
+    0;
 }
